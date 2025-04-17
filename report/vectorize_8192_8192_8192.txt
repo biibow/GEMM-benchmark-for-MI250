@@ -1,0 +1,5 @@
+Running configuration: M=8192, N=8192, K=8192
+srun: Force Terminated job 22118
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-miopen-1: error: *** STEP 22118.0 ON miopen-1 CANCELLED AT 2025-04-09T16:53:24 DUE TO TIME LIMIT ***
+srun: error: miopen-1: task 0: Terminated

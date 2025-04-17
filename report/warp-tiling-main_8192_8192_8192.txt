@@ -1,0 +1,7 @@
+Running configuration: M=8192, N=8192, K=8192
+srun: job 18452 queued and waiting for resources
+srun: job 18452 has been allocated resources
+srun: Force Terminated job 18452
+slurmstepd-miopen-1: error: *** STEP 18452.0 ON miopen-1 CANCELLED AT 2025-04-09T13:48:54 DUE TO TIME LIMIT ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: miopen-1: task 0: Terminated

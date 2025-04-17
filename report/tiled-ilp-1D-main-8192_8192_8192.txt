@@ -1,0 +1,3 @@
+Running configuration: M=8192, N=8192, K=8192
+Time taken for GEMM: 154.527618 ms
+Performance: 7115.31 GFLOP/s

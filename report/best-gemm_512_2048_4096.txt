@@ -1,0 +1,5 @@
+Running configuration: M=512, N=2048, K=4096
+srun: job 21737 queued and waiting for resources
+srun: job 21737 has been allocated resources
+Time taken for GEMM: 1.565909 ms
+Performance: 5485.59 GFLOP/s

@@ -1,0 +1,5 @@
+Running configuration: M=1024, N=1024, K=1024
+⏱  Time: 4.85264 ms
+🔥 GFLOPS: 442.54
+Max diff = 53.7801
+❌ Verify failed!

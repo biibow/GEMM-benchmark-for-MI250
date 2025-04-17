@@ -1,0 +1,4 @@
+Running configuration: M=1024, N=1024, K=1024
+Time taken for GEMM: 0.660641 ms
+Performance: 3250.61 GFLOP/s
+Correct!

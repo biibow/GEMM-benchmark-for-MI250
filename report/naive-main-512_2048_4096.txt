@@ -1,0 +1,3 @@
+Running configuration: M=512, N=2048, K=4096
+naive-main: src/naive-main.cpp:32: void verifyResult(T *, T *, T *, int, int, int) [T = int]: Assertion `c[i * N + j] == sum' failed.
+srun: error: miopen-1: task 0: Aborted (core dumped)

@@ -1,0 +1,5 @@
+Running configuration: M=512, N=2048, K=4096
+srun: job 18450 queued and waiting for resources
+srun: job 18450 has been allocated resources
+Memory access fault by GPU node-2 (Agent handle: 0x1effc60) on address 0x7f8898e30000. Reason: Unknown.
+srun: error: miopen-1: task 0: Aborted (core dumped)

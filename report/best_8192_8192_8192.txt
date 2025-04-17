@@ -1,0 +1,7 @@
+Running configuration: M=8192, N=8192, K=8192
+srun: job 15620 queued and waiting for resources
+srun: job 15620 has been allocated resources
+⏱  Time: 4.41849 ms
+🔥 GFLOPS: 486.022
+Max diff = 53.7801
+❌ Verify failed!

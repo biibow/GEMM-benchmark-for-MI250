@@ -1,0 +1,3 @@
+Time taken for GEMM: 2.606725 ms
+Performance: 823.824 GFLOP/s
+Result is correct!
